@@ -4,7 +4,7 @@ import { Fade } from 'reactstrap';
 export class Leaderboard extends Component {
   static displayName = Leaderboard.name;
 
-  render() {
+  render () {
     return (
       <div>
         <Fade>

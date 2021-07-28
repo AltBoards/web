@@ -4,7 +4,7 @@ import { Fade } from 'reactstrap';
 export class Download extends Component {
   static displayName = Download.name;
 
-  render() {
+  render () {
     return (
       <div>
         <Fade>
