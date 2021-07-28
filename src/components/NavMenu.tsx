@@ -5,7 +5,7 @@ import * as Icon from 'react-bootstrap-icons';
 
 interface NavMenuProps { }
 
-interface NavMenuState{
+interface NavMenuState {
   collapsed: boolean
 }
 
